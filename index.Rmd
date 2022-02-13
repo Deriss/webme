@@ -1,0 +1,16 @@
+---
+title: "Deris Spina"
+image: "deris_cv_round.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/deris-eduardo-spina/?locale=en_US"
+  - label: GitHub
+    url: "https://github.com/Deriss"
+  - label: Email
+    url: "mailto:derisspina@gmail.com"
+output:
+  postcards::jolla
+---
+ 
+I am a junior data scientist, currently pursuing my master's degree in Chemical Engineering at the Federal University of Rio de Janeiro (UFRJ). 
+
